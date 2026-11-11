@@ -1,0 +1,39 @@
+
+Statistical Analysis Report========================================
+Column: daily_deposits_kes
+Valid Count: 35
+Rejected Count: 5
+
+Measures of Central Tendencies
+Mean: 22400.00
+Median: 18805.47
+Mode: []
+
+Measures of Variability
+Sample Variance: 328019873.36
+Sample standard deviation: 18111.32
+Population Variance: 318647876.98
+Population standard deviation: 17850.71
+
+Quartiles and Outliers
+Q1: 15998.40
+Q2: 18805.47
+Q3: 20977.21
+IQR: 4978.81
+Outliers: [96500.0, 1200.0, 88400.0, 29060.99]
+
+Numpy Comparison
+mean: MATCH
+median: MATCH
+sample_variance: MATCH
+sample_std_dev: MATCH
+q1: MATCH
+q2: MATCH
+q3: MATCH
+
+Rejected Values
+Row {row_number}: {raw_value!r}
+Row {row_number}: {raw_value!r}
+Row {row_number}: {raw_value!r}
+Row {row_number}: {raw_value!r}
+Row {row_number}: {raw_value!r}
